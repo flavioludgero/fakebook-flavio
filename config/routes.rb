@@ -1,6 +1,6 @@
 Fakebook::Application.routes.draw do
   resources :statuses
 
-  root to: 'home#index'
+  root to: 'statuses#index'
 
 end
