@@ -12,6 +12,7 @@ gem "oily_png"
 gem "friendly_id"
 gem "draper"
 gem "rufus-scheduler"
+
 group :assets do
   gem "compass", "~> 0.13.alpha.0"
   gem "compass-rails", "~> 1.0.3"
